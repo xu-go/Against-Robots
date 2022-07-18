@@ -12,13 +12,13 @@
 
 ​	杭电母车机械限位：
 
-![杭电母车机械限位](.\picture\1.jpg)
+![杭电母车机械限位](./picture/1.jpg)
 
 ​	其他学校的机械限位：
 
-<img src=".\picture\2.jpg" alt="其他学校的机械限位" style="zoom:33%;" />
+<img src="./picture/2.jpg" alt="其他学校的机械限位" style="zoom:33%;" />
 
-<img src=".\picture\5.jpg" style="zoom: 25%;" />
+<img src="./picture/5.jpg" style="zoom: 25%;" />
 
    #### 第二点
 
@@ -52,7 +52,7 @@
 
 特别快的小车（中间可以收集能量环）：
 
-<img src=".\picture\3.jpg" alt="特别快的小车" style="zoom:33%;" />
+<img src="./picture/3.jpg" alt="特别快的小车" style="zoom:33%;" />
 
 
 
@@ -60,9 +60,9 @@
 
 ​	设计挺新颖的可以拓宽自己的思路，不多说直接上图
 
-<img src=".\picture\4.jpg" style="zoom:33%;" />
+<img src="./picture/4.jpg" style="zoom:33%;" />
 
-<img src=".\picture\9.jpg" style="zoom: 50%;" />
+<img src="./picture/9.jpg" style="zoom: 50%;" />
 
 #### 第四点
 
@@ -70,7 +70,7 @@
 
 根本拦不住的小车：
 
-![根本拦不住的小车](.\picture\6.jpg)
+![根本拦不住的小车](./picture/6.jpg)
 
 #### 第五点
 
@@ -78,19 +78,19 @@
 
 为放下的状态：
 
-<img src=".\picture\7.jpg" style="zoom: 25%;" />
+<img src="./picture/7.jpg" style="zoom: 25%;" />
 
-<img src=".\picture\8.jpg" style="zoom:25%;" />
+<img src="./picture/8.jpg" style="zoom:25%;" />
 
 这个也是电机滚上去的：
 
-<img src=".\picture\9.jpg" style="zoom: 50%;" />
+<img src="./picture/9.jpg" style="zoom: 50%;" />
 
 #### 第六点
 
 ​	不用循迹，直接上激光雷达，其他的转了几乎就废了，但是这个可以修回来，唯一的队伍是温职，不可否认的强，但陀螺仪也是真的好~~(贵，也就大几千)~~，应对方法，1冲过去把他翘起来，2冲过去把他包起来，但这都比较难，他跑的太快了：
 
-<img src=".\picture\10.jpg" style="zoom: 33%;" />
+<img src="./picture/10.jpg" style="zoom: 33%;" />
 
 #### 第七点
 
@@ -98,17 +98,17 @@
 
 工商~~（有个美女挺好看的，嘿嘿，我剪掉了）~~：
 
-![](.\picture\14.jpg)
+![](./picture/14.jpg)
 
 一车三用：
 
-<img src=".\picture\13.jpg" style="zoom:33%;" />
+<img src="./picture/13.jpg" style="zoom:33%;" />
 
 #### 第八点
 
 ​	母车的弹射装置，比赛中，当敌人小车出来就弹出东西，敌人就不能动了，非常恶心的战术，就算不用也得考虑应对的对策，比如自己的小车直接多路线融合或者直接抵住敌人小车不重启，但是敌人有两移动的母车。
 
-<img src=".\picture\12.jpg" style="zoom: 50%;" />
+<img src="./picture/12.jpg" style="zoom: 50%;" />
 
 #### 第九点
 
