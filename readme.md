@@ -12,7 +12,7 @@
 
 ​	杭电母车机械限位：
 
-![杭电母车机械限位](https://raw.githubusercontent.com/xu-go/Against-Robots/main/picture/1.jpg)
+![杭电母车机械限位](./picture/2.jpg)
 
 ​	其他学校的机械限位：
 
