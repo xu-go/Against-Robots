@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.h": "c",
+        "*.s": "arm",
+        "xutility": "c"
+    }
+}
